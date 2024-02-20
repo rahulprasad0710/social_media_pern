@@ -1,0 +1,926 @@
+[
+    {
+        "id": 1,
+        "districtTitle": "Taplejung",
+        "districtTitleNepali": "ताप्लेजुङ",
+        "code": 101,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 2,
+        "districtTitle": "Sankhuwasabha",
+        "districtTitleNepali": "संखुवासभा",
+        "code": 102,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 3,
+        "districtTitle": "Solukhumbu",
+        "districtTitleNepali": "सोलुखुम्बु",
+        "code": 103,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 4,
+        "districtTitle": "Okhaldhunga",
+        "districtTitleNepali": "ओखलढुङ्गा",
+        "code": 104,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 5,
+        "districtTitle": "Khotang",
+        "districtTitleNepali": "खोटाङ",
+        "code": 105,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 6,
+        "districtTitle": "Bhojpur",
+        "districtTitleNepali": "भोजपुर",
+        "code": 106,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 7,
+        "districtTitle": "Dhankuta",
+        "districtTitleNepali": "धनकुटा",
+        "code": 107,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 8,
+        "districtTitle": "Tehrathum",
+        "districtTitleNepali": "तेह्रथुम",
+        "code": 108,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 9,
+        "districtTitle": "Panchthar",
+        "districtTitleNepali": "पाँचथर",
+        "code": 109,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 10,
+        "districtTitle": "Ilam",
+        "districtTitleNepali": "इलाम",
+        "code": 110,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 11,
+        "districtTitle": "Jhapa",
+        "districtTitleNepali": "झापा",
+        "code": 111,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 12,
+        "districtTitle": "Morang",
+        "districtTitleNepali": "मोरङ",
+        "code": 112,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 13,
+        "districtTitle": "Sunsari",
+        "districtTitleNepali": "सुनसरी",
+        "code": 113,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 14,
+        "districtTitle": "Udayapur",
+        "districtTitleNepali": "उदयपुर",
+        "code": 114,
+        "province": {
+            "id": 1,
+            "provinceTitle": "Province 1",
+            "provinceTitleNepali": "प्रदेश १",
+            "code": 1
+        }
+    },
+    {
+        "id": 15,
+        "districtTitle": "Saptari",
+        "districtTitleNepali": "सप्तरी",
+        "code": 201,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 16,
+        "districtTitle": "Siraha",
+        "districtTitleNepali": "सिरहा",
+        "code": 202,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 17,
+        "districtTitle": "Dhanusa",
+        "districtTitleNepali": "धनुषा",
+        "code": 203,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 18,
+        "districtTitle": "Mahottari",
+        "districtTitleNepali": "महोत्तरी",
+        "code": 204,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 19,
+        "districtTitle": "Sarlahi",
+        "districtTitleNepali": "सर्लाही",
+        "code": 205,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 20,
+        "districtTitle": "Rautahat",
+        "districtTitleNepali": "रौतहट",
+        "code": 206,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 21,
+        "districtTitle": "Bara",
+        "districtTitleNepali": "बारा",
+        "code": 207,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 22,
+        "districtTitle": "Parsa",
+        "districtTitleNepali": "पर्सा",
+        "code": 208,
+        "province": {
+            "id": 2,
+            "provinceTitle": "Madhesh Pradesh",
+            "provinceTitleNepali": "मधेस प्रदेश",
+            "code": 2
+        }
+    },
+    {
+        "id": 23,
+        "districtTitle": "Dolakha",
+        "districtTitleNepali": "दोलखा",
+        "code": 301,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 24,
+        "districtTitle": "Sindhupalchok",
+        "districtTitleNepali": "सिन्धुपाल्चोक",
+        "code": 302,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 25,
+        "districtTitle": "Rasuwa",
+        "districtTitleNepali": "रसुवा",
+        "code": 303,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 26,
+        "districtTitle": "Dhading",
+        "districtTitleNepali": "धादिङ",
+        "code": 304,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 27,
+        "districtTitle": "Nuwakot",
+        "districtTitleNepali": "नुवाकोट",
+        "code": 305,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 28,
+        "districtTitle": "Kathmandu",
+        "districtTitleNepali": "काठमाडौँ",
+        "code": 306,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 29,
+        "districtTitle": "Bhaktapur",
+        "districtTitleNepali": "भक्तपुर",
+        "code": 307,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 30,
+        "districtTitle": "Lalitpur",
+        "districtTitleNepali": "ललितपुर",
+        "code": 308,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 31,
+        "districtTitle": "Kavrepalanchok",
+        "districtTitleNepali": "काभ्रेपलाञ्चोक",
+        "code": 309,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 32,
+        "districtTitle": "Ramechhap",
+        "districtTitleNepali": "रामेछाप",
+        "code": 310,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 33,
+        "districtTitle": "Sindhuli",
+        "districtTitleNepali": "सिन्धुली",
+        "code": 311,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 34,
+        "districtTitle": "Makwanpur",
+        "districtTitleNepali": "मकवानपुर",
+        "code": 312,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 35,
+        "districtTitle": "Chitwan",
+        "districtTitleNepali": "चितवन",
+        "code": 313,
+        "province": {
+            "id": 3,
+            "provinceTitle": "Bagmati",
+            "provinceTitleNepali": "बागमती",
+            "code": 3
+        }
+    },
+    {
+        "id": 36,
+        "districtTitle": "Gorkha",
+        "districtTitleNepali": "गोरखा",
+        "code": 401,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 37,
+        "districtTitle": "Manang",
+        "districtTitleNepali": "मनाङ",
+        "code": 402,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 38,
+        "districtTitle": "Mustang",
+        "districtTitleNepali": "मुस्ताङ",
+        "code": 403,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 39,
+        "districtTitle": "Myagdi",
+        "districtTitleNepali": "म्याग्दी",
+        "code": 404,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 40,
+        "districtTitle": "Kaski",
+        "districtTitleNepali": "कास्की",
+        "code": 405,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 41,
+        "districtTitle": "Lamjung",
+        "districtTitleNepali": "लमजुङ",
+        "code": 406,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 42,
+        "districtTitle": "Tanahun",
+        "districtTitleNepali": "तनहुँ",
+        "code": 407,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 43,
+        "districtTitle": "Nawalparasi East",
+        "districtTitleNepali": "नवलपरासी पूर्व",
+        "code": 408,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 44,
+        "districtTitle": "Syangja",
+        "districtTitleNepali": "स्याङजा",
+        "code": 409,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 45,
+        "districtTitle": "Parbat",
+        "districtTitleNepali": "पर्वत",
+        "code": 410,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 46,
+        "districtTitle": "Baglung",
+        "districtTitleNepali": "बागलुङ",
+        "code": 411,
+        "province": {
+            "id": 4,
+            "provinceTitle": "Gandaki",
+            "provinceTitleNepali": "गण्डकी",
+            "code": 4
+        }
+    },
+    {
+        "id": 47,
+        "districtTitle": "Rukum East",
+        "districtTitleNepali": "रुकुम पूर्व",
+        "code": 501,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 48,
+        "districtTitle": "Rolpa",
+        "districtTitleNepali": "रोल्पा",
+        "code": 502,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 49,
+        "districtTitle": "Pyuthan",
+        "districtTitleNepali": "प्यूठान",
+        "code": 503,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 50,
+        "districtTitle": "Gulmi",
+        "districtTitleNepali": "गुल्मी",
+        "code": 504,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 51,
+        "districtTitle": "Arghakhanchi",
+        "districtTitleNepali": "अर्घाखाँची",
+        "code": 505,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 52,
+        "districtTitle": "Palpa",
+        "districtTitleNepali": "पाल्पा",
+        "code": 506,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 53,
+        "districtTitle": "Nawalparasi West",
+        "districtTitleNepali": "नवलपरासी पश्चिम",
+        "code": 507,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 54,
+        "districtTitle": "Rupandehi",
+        "districtTitleNepali": "रुपन्देही",
+        "code": 508,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 55,
+        "districtTitle": "Kapilbastu",
+        "districtTitleNepali": "कपिलवस्तु",
+        "code": 509,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 56,
+        "districtTitle": "Dang",
+        "districtTitleNepali": "दाङ",
+        "code": 510,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 57,
+        "districtTitle": "Banke",
+        "districtTitleNepali": "बाँके",
+        "code": 511,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 58,
+        "districtTitle": "Bardiya",
+        "districtTitleNepali": "बर्दिया",
+        "code": 512,
+        "province": {
+            "id": 5,
+            "provinceTitle": "Lumbini",
+            "provinceTitleNepali": "प्रदेश ५",
+            "code": 5
+        }
+    },
+    {
+        "id": 59,
+        "districtTitle": "Dolpa",
+        "districtTitleNepali": "डोल्पा",
+        "code": 601,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 60,
+        "districtTitle": "Mugu",
+        "districtTitleNepali": "मुगु",
+        "code": 602,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 61,
+        "districtTitle": "Humla",
+        "districtTitleNepali": "हुम्ला",
+        "code": 603,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 62,
+        "districtTitle": "Jumla",
+        "districtTitleNepali": "जुम्ला",
+        "code": 604,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 63,
+        "districtTitle": "Kalikot",
+        "districtTitleNepali": "कालिकोट",
+        "code": 605,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 64,
+        "districtTitle": "Dailekh",
+        "districtTitleNepali": "दैलेख",
+        "code": 606,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 65,
+        "districtTitle": "Jajarkot",
+        "districtTitleNepali": "जाजरकोट",
+        "code": 607,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 66,
+        "districtTitle": "Rukum West",
+        "districtTitleNepali": "रुकुम पश्चिम",
+        "code": 608,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 67,
+        "districtTitle": "Salyan",
+        "districtTitleNepali": "सल्यान",
+        "code": 609,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 68,
+        "districtTitle": "Surkhet",
+        "districtTitleNepali": "सुर्खेत",
+        "code": 610,
+        "province": {
+            "id": 6,
+            "provinceTitle": "Karnali",
+            "provinceTitleNepali": "कर्णाली",
+            "code": 6
+        }
+    },
+    {
+        "id": 69,
+        "districtTitle": "Bajura",
+        "districtTitleNepali": "बाजुरा",
+        "code": 701,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 70,
+        "districtTitle": "Bajhang",
+        "districtTitleNepali": "बझाङ",
+        "code": 702,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 71,
+        "districtTitle": "Darchula",
+        "districtTitleNepali": "दार्चुला",
+        "code": 703,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 72,
+        "districtTitle": "Baitadi",
+        "districtTitleNepali": "बैतडी",
+        "code": 704,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 73,
+        "districtTitle": "Dandeldhura",
+        "districtTitleNepali": "डँडेलधुरा",
+        "code": 705,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 74,
+        "districtTitle": "Doti",
+        "districtTitleNepali": "डोटी",
+        "code": 706,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 75,
+        "districtTitle": "Achham",
+        "districtTitleNepali": "अछाम",
+        "code": 707,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 76,
+        "districtTitle": "Kailali",
+        "districtTitleNepali": "कैलाली",
+        "code": 708,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    },
+    {
+        "id": 77,
+        "districtTitle": "Kanchanpur",
+        "districtTitleNepali": "कञ्चनपुर",
+        "code": 709,
+        "province": {
+            "id": 7,
+            "provinceTitle": "Sudurpashchim",
+            "provinceTitleNepali": "सुदूरपश्चिम",
+            "code": 7
+        }
+    }
+]

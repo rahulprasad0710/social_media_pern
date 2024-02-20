@@ -1,0 +1,37 @@
+[
+    {
+        "provinceTitle": "Province 1",
+        "provinceTitleNepali": "प्रदेश १",
+        "provinceCode": 1
+    },
+    {
+        "provinceTitle": "Madhesh Pradesh",
+        "provinceTitleNepali": "मधेस प्रदेश",
+        "provinceCode": 2
+    },
+    {
+        "provinceTitle": "Bagmati",
+        "provinceTitleNepali": "बागमती",
+        "provinceCode": 3
+    },
+    {
+        "provinceTitle": "Gandaki",
+        "provinceTitleNepali": "गण्डकी",
+        "provinceCode": 4
+    },
+    {
+        "provinceTitle": "Lumbini",
+        "provinceTitleNepali": "प्रदेश ५",
+        "provinceCode": 5
+    },
+    {
+        "provinceTitle": "Karnali",
+        "provinceTitleNepali": "कर्णाली",
+        "provinceCode": 6
+    },
+    {
+        "provinceTitle": "Sudurpashchim",
+        "provinceTitleNepali": "सुदूरपश्चिम",
+        "provinceCode": 7
+    }
+]

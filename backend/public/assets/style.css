@@ -1,0 +1,7 @@
+main {
+    min-height: calc(100vh - 70px);
+}
+
+.footer-container {
+    min-height: 150px;
+}

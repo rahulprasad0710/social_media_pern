@@ -1,0 +1,44 @@
+{
+    "permssions": [
+        {
+            "name": "ADD ADMIN",
+            "value": "ADMIN_ADD",
+            "code": 0001
+        },
+        {
+            "name": "EDIT ADMIN",
+            "value": "ADMIN_EDIT",
+            "code": 0002
+        },
+        {
+            "name": "DELETE ADMIN",
+            "value": "ADMIN_DELETE",
+            "code": 0003
+        },
+        {
+            "name": "VIEW ADMIN",
+            "value": "ADMIN_VIEW",
+            "code": 0004
+        },
+        {
+            "name": "ADD USER",
+            "value": "USER_ADD",
+            "code": 0005
+        },
+        {
+            "name": "EDIT USER",
+            "value": "USER_EDIT",
+            "code": 0006
+        },
+        {
+            "name": "DELETE USER",
+            "value": "USER_DELETE",
+            "code": 0007
+        },
+        {
+            "name": "VIEW USER",
+            "value": "USER_VIEW",
+            "code": 0008
+        }
+    ]
+}
